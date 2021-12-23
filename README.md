@@ -3,7 +3,7 @@
 
 Can a Neural Network change an image based on the style of another one?
 
-![test output](https://github.com/statscol/StyleTransferCali/images/output.jpg?raw=true)
+![test output](https://github.com/statscol/StyleTransferCali/blob/main/images/output.jpg?raw=true)
 
 Usage:
 
